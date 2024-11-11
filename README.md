@@ -6,8 +6,10 @@ el enfoque de Desarrollo Guiado por Pruebas (TDD) junto con GitFlow para la gest
 - Python 3.x
 - Tkinter (incluido en la instalación estándar de Python)
 ## Integrantes
-|Curi Untiveros, Jefferson Diego|73031584|
-|Arroyo Ramirez, Billy Patrick|76740926|
+| Apellidos y nombres| DNI |
+|--------------------|-----|
+|ARROYO RAMÍREZ, Billy Patrick| 73031584 |
+|CURI UNTIVEROS, Jefferson Diego| 76740926 |
 ## Instalación
 1. Clona este repositorio:
 ```bash
